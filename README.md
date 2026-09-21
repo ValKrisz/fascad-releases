@@ -16,6 +16,10 @@ Zusatzmodul für BricsCAD zur automatischen Plattenaufteilung vorgehängter Fass
 
 ## Installation
 
+1. ZIP-Datei **entsperren**: Rechtsklick, Eigenschaften, unten "Zulassen" aktivieren, OK.
+2. ZIP in einen **lokalen Ordner auf Laufwerk C:** entpacken, zum Beispiel `C:\Users\Public\fascad-install`. Nicht auf den Desktop und nicht in den Downloads-Ordner, wenn diese auf einem Firmenrechner auf einen Server oder ein Netzlaufwerk umgeleitet sind: von dort findet und kopiert die Installation die Programmdateien nicht zuverlässig.
+3. `install.lsp` aus diesem Ordner in ein BricsCAD-Zeichenfenster ziehen.
+
 Details siehe [docs.fascad.de/installation](https://docs.fascad.de/installation/).
 
 ## Testphase
