@@ -11,7 +11,7 @@ Zusatzmodul für BricsCAD zur automatischen Plattenaufteilung vorgehängter Fass
 ## Voraussetzungen
 
 - Windows 10 oder 11
-- BricsCAD V24, V25 oder V26 (Pro oder höher, 64-Bit)
+- BricsCAD V25 oder V26 (Pro oder höher, 64-Bit)
 - Für BricsCAD V26: [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
 
 ## Installation
